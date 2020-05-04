@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TwinBios)(type Legacy)(uri ${KIPRJMOD}/../TwinBios.lib)(options "")(descr ""))
+  (lib (name TwinBios-rescue)(type Legacy)(uri ${KIPRJMOD}/../TwinBios-rescue.lib)(options "")(descr ""))
+)
